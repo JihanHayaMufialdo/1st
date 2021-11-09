@@ -1,0 +1,21 @@
+Buatlah program untuk membuat akun siakadu yang menampilkan output berupa username dan juga password. Input dari program ini adalah NPM dan tanggal lahir.
+
+Format Input
+Baris pertama berisi NPM
+Baris kedua berisi tanggal lahir
+Baris ketiga berisi bulan lahir
+Baris keempat berisi tahun lahir
+
+Format Output
+Baris pertama berisi username dari NPM
+Baris kedua berisi password dari input tanggal lahir (Format: yyyymmdd)
+
+Contoh Input
+2017051049
+02
+05
+2002
+
+Contoh Output
+Username  : 2017051049
+Password  : 20020502
