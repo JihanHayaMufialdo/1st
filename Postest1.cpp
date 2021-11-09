@@ -33,13 +33,9 @@ int main (){
 	cout << "" << endl;
 	
 	//output
+	
 	cout << "USERNAME : " << NPM << endl;
 	cout << "PASSWORD : " << tahunlahir << bulanlahir << tanggalahir << endl;
 	
 	return 0;
 }
-
-
-
-
-
