@@ -2,11 +2,6 @@
 using namespace std;
 int main (){
 	
-	/* JIHAN HAYA MUFIALDO
-	   2117051095
-	   KELAS B
-	*/
-	
 	cout << "--------------------------------MEMBUAT AKUN SIAKADU---------------------------------" << endl;
 	
 	cout << "" << endl;
