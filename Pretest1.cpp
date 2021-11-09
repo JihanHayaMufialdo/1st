@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int main(){
+int main()
+{
 
 	//title
 	cout<<"DATA PELANGGAN SEMBAKO"<<endl;
@@ -21,7 +22,7 @@ int main(){
 	
 	getline (cin,namapelanggan);
 	getline (cin,alamatrumah);
-    cin>>emailpelanggan;
+        cin>>emailpelanggan;
 	cin>>nomortelepon;
 	cout<<""<<endl;
 	
