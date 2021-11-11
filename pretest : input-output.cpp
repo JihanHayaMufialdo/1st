@@ -7,12 +7,13 @@ int main()
 	cout<<"DATA PELANGGAN SEMBAKO"<<endl;
 	cout<<""<<endl;
 	
-    //string
+        //tipedata
 	string namapelanggan;
 	string alamatrumah;
 	string emailpelanggan;
 	int nomortelepon;
 	
+	//input
 	getline (cin,namapelanggan);
 	getline (cin,alamatrumah);
         cin>>emailpelanggan;
