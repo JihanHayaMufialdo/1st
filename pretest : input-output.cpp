@@ -7,13 +7,6 @@ int main()
 	cout<<"DATA PELANGGAN SEMBAKO"<<endl;
 	cout<<""<<endl;
 	
-	/* 
-	   Jihan Haya Mufialdo
-	   Jl. Hangtuah IV No. 19, Pekanbaru
-	   jihannhayaa@gmail.com
-	   082268210439 
-	*/
-    
     //string
 	string namapelanggan;
 	string alamatrumah;
