@@ -5,13 +5,13 @@ int main(){
 	
 	string prodi, jurusan, fakultas, univ;
 	
-	cout << "Prodi : ";
+	cout << "Prodi\t: ";
 	getline(cin,prodi);
-	cout << "Jurusan : ";
+	cout << "Jurusan\t: ";
 	getline(cin,jurusan);
-	cout << "Fakultas : ";
+	cout << "Fakultas\t: ";
 	cin >> fakultas;
-	cout << "Universitas : ";
+	cout << "Universitas\t: ";
 	cin >> univ;
 	
 	return 0;
