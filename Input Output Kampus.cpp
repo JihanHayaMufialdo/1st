@@ -6,9 +6,9 @@ int main(){
 	string prodi, jurusan, fakultas, univ;
 	
 	cout << "Prodi : ";
-	cin >> prodi;
+	getline(cin,prodi);
 	cout << "Jurusan : ";
-	cin >> jurusan;
+	getline(cin,jurusan);
 	cout << "Fakultas : ";
 	cin >> fakultas;
 	cout << "Universitas : ";
