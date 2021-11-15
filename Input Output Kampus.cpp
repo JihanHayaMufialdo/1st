@@ -14,10 +14,10 @@ int main(){
 	cout << "Universitas\t: ";
 	getline(cin,univ);
 	
-	cout << "Prodi\t\t: " << prodi;
-	cout << "Jurusan\t\t: " << jurusan;
-	cout << "Fakultas\t: " << fakultas;
-	cout << "Universitas\t: " << univ;
+	cout << "\nProdi\t\t: " << prodi;
+	cout << "\nJurusan\t\t: " << jurusan;
+	cout << "\nFakultas\t: " << fakultas;
+	cout << "\nUniversitas\t: " << univ;
 	
 	return 0;
 }
