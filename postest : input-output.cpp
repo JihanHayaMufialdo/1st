@@ -10,10 +10,7 @@ int main (){
 	
 	cout << "" << endl;
 	
-	int     NPM            ;
-	int     tanggalahir    ; 
-	string  bulanlahir     ;
-	int     tahunlahir     ;
+	
 	
 	//input
 	cin  >> NPM         ;
